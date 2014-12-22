@@ -1,0 +1,567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"controller	controller"
+			],
+			[
+				"b",
+				"bxsh	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
+			],
+			[
+				"a",
+				"animdir	animation-direction: ${1:normal};"
+			],
+			[
+				"e",
+				"example-menuCSS	css-example-menuCSS"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"un",
+				"unavailable"
+			],
+			[
+				"php",
+				"php"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"browser in sett",
+				"Browser Integration: Settings (Default)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet htm",
+				"Snippet: html"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"pvr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"installn",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"inden",
+				"Indentation: Convert to all views to Tabs"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"line",
+				"Line Ending to all views: Windows"
+			],
+			[
+				"line ending",
+				"Line Ending to all views: Windows"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle inst",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"copy as ",
+				"File: Copy as Tag style"
+			],
+			[
+				"copy as t",
+				"File: Copy as Tag style"
+			],
+			[
+				"copy as",
+				"File: Copy as Tag a"
+			],
+			[
+				"copy path pro",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"bootst",
+				"Snippet: bootstrap-new"
+			],
+			[
+				"tast",
+				"Tasks: New document"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"gist br",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"gist op",
+				"Gist: Open Gist"
+			],
+			[
+				"in",
+				"Gist: Insert Gist"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"sy java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git",
+				"Git GUI Clients: Gitk"
+			],
+			[
+				"swap",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"remo",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"colu",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sublime l",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublime linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 377.0,
+		"history":
+		[
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Jordan/Desktop/Foundation/stylesheets/app.css",
+		"/C/Users/Jordan/Desktop/Foundation/index.html",
+		"/C/Users/Jordan/Desktop/Foundation/scss/_settings.scss",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jordan/Desktop/Sass/style/style.scss",
+		"/C/Users/Jordan/Desktop/Sass/index.html",
+		"/C/Users/Jordan/Desktop/Sass/style/style.css",
+		"/C/Users/Jordan/Desktop/Sass/style.scss",
+		"/C/Users/Jordan/Desktop/Sass/new.scss",
+		"/C/wamp/www/_index.php",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Boron.tmTheme",
+		"/C/Users/Jordan/Documents/_old/poem.txt",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/Theme - Numix/numix-theme.json",
+		"/C/Users/Jordan/Desktop/Sass/style.css.map",
+		"/C/Users/Jordan/Desktop/Sass/style.css",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Twilight (SL).tmTheme",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/Boron Color Scheme/Boron.tmTheme",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Installed Packages/Theme - Numix.sublime-package",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Phoenix Dark Orange (SL).tmTheme",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/README.md",
+		"/C/Users/Jordan/Desktop/Sass/stlye.css",
+		"/C/Users/Jordan/Desktop/Sass/stlye.css.map",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Jordan/Desktop/shop/shop",
+		"/C/Program Files/Sublime Text 3/generator-shop.sublime-project",
+		"/C/Users/Jordan/Desktop/Project/app/index.html",
+		"/C/Users/Jordan/Desktop/Project/Gruntfile.js",
+		"/C/wamp/www/foundation/index.html",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/wamp/www/foundation/css/foundation.min.css",
+		"/C/wamp/www/foundation/js/foundation.min.js",
+		"/C/wamp/www/foundation/js/foundation/foundation.js",
+		"/C/wamp/www/foundation/js/foundation/foundation.abide.js",
+		"/C/wamp/www/foundation/js/foundation/foundation.accordion.js",
+		"/C/wamp/www/foundation/js/foundation/foundation.alert.js",
+		"/C/wamp/www/foundation/css/foundation.css",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/LineEndings.sublime-settings",
+		"/C/wamp/www/foundation/js/foundation/foundation.offcanvas.js",
+		"/C/wamp/www/foundation/css/normalize.css",
+		"/C/wamp/www/jordanproject/css/style.css",
+		"/C/wamp/www/jordanproject/script.js",
+		"/C/wamp/www/jordanproject/new.php",
+		"/C/wamp/www/jordanproject/random folder/new.html",
+		"/C/wamp/www/jordanproject/random folder/Tasks.TODO",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/ScopeAlways.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/ScopeAlways/ScopeAlways.sublime-settings",
+		"/C/wamp/www/jordanproject/new.html",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/apps/phpmyadmin3.5.1/setup/lib/.htaccess",
+		"/C/Users/Jordan/Desktop/LICENSE.txt",
+		"/C/wamp/www/jordanproject/index.html",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Jordan/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"caret",
+			"invisibles",
+			"      <div class=\"columns large-4\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero voluptas a voluptatem, facilis, sunt magni vitae odio deleniti magnam accusantium commodi ut provident impedit explicabo?</div>\n",
+			"endings",
+			"navbar",
+			"class",
+			"\n          ",
+			"insert",
+			"line",
+			"after",
+			"h6",
+			"h2",
+			"span4",
+			"cursus",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "foundation.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"normali",
+				"css\\normalize.css"
+			],
+			[
+				"foun",
+				"css\\foundation.css"
+			],
+			[
+				"nor",
+				"css\\normalize.css"
+			],
+			[
+				"n",
+				"css\\normalize.css"
+			],
+			[
+				"styl",
+				"css\\style.css"
+			],
+			[
+				"",
+				"random folder\\Tasks.TODO"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Program Files\\Sublime Text 3\\Projects\\Sass.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
